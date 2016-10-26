@@ -1,0 +1,33 @@
+#suggestions { padding: 10px 0; }
+
+#suggestions-title {
+	margin: 1em 0 10px;
+	font-size: 1em; font-weight: bold;
+}
+
+#suggestions-list { 
+	list-style: none; 
+	padding: 0; 
+}
+
+.suggested-item { 
+	margin: 20px 0; 
+	font-size: 1.2rem;
+}
+
+.suggested-item-link { 
+	display: flex; 
+	font-style: none;
+}
+.suggested-item-link:hover { text-decoration: none; }
+.suggested-item-panel1 { margin: 0 7px 0 0; }
+
+.suggested-item-avatar { 
+	width: 100%; max-width: 40px; 
+	border-radius: 50%;
+}
+.suggested-item-display-name { }
+.suggested-item-username { 
+	display: block; 
+	color: #818181;
+}
