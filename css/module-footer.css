@@ -1,0 +1,10 @@
+/* Credits
+-------------------------------------------------------*/
+#credits { 
+	flex-grow: 0; flex-basis: 0;
+	padding: 1em 20px;
+	color: #EEE; font-size: 1.2rem; text-align: center;
+	background: #3F3F3F;
+}
+#credits a:link,
+#credits a:visited { color: #EEE; }
